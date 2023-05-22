@@ -19,7 +19,7 @@ A simple Discord Webhook tool with many useful features, build with Python3 and 
 **1.** Clone the repository:
 
 ```
-git clone https://github.com/Phsphrus/Argon
+git clone https://github.com/Phsphrus/Argon-nitro-gen
  ```
 **.2** Go into the repository directory 
 
