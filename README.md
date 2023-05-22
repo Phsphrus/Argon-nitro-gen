@@ -1,10 +1,10 @@
 # Argon nitro generator 🌐
 
-A simple Discord Webhook tool with many useful features, build with Python3 and maintained.
+A simple easy to use nnitro generator, build with Python3 and maintained.
 
 [![Status](https://img.shields.io/badge/Status-Maintained-red?style=for-the-badge)](https://shields.io/)
 [![Made with Python](https://img.shields.io/badge/Made_With-Python-yellow?style=for-the-badge&logo=python)](https://python)
-![Version](https://img.shields.io/badge/Version-1.0.4-blue?style=for-the-badge&)
+![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge&)
 
 
 ## Features 🦾
