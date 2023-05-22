@@ -1,4 +1,3 @@
-# Argon-nitro-gen
 # Argon nitro generator 🌐
 
 A simple Discord Webhook tool with many useful features, build with Python3 and maintained.
