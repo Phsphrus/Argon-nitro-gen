@@ -1,0 +1,5 @@
+ random
+
+ os
+
+ colorama  init, Fore, Style
